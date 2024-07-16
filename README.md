@@ -1,35 +1,28 @@
 # Desafio-de-Carreira-DDS18-CubosAcademy
 Desafio de carreira do módulo 1 da turma dds-18 do curso da Cubos Academy
 
-# EXEMPLO - Conteúdo modelo no GitHub
 ## Conteúdos a serem trabalhados nesse módulo:
-- Soft skills
-- LinkedIn
-- Ética em tecnologia
-- Gestão de tempo
-- Git básico
-- Introdução a TypeScript
-- Métodos de strings
-- Métodos de arrays
+- Setup de ferramentas
+- Git Básico
+- NodeJS, NPM e Package.json
+- Variáveis
+- Introdução ao TypeScript
+- Condicionais e Truthiness
+- Arrays e Loops
+- Objetos
+  
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
-- Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
-- LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
-- Ética em tecnologia refere-se a tomar boas decisões sobre como usar a tecnologia de maneira justa e segura.
-- Gestão de tempo envolve organizar suas tarefas de forma eficaz para fazer o melhor uso do tempo.
-- Git básico é uma ferramenta usada para controlar as diferentes versões de um projeto de software.
-- TypeScript é uma linguagem de programação relacionada ao JavaScript.
-- Métodos de strings são maneiras de manipular texto em programação.
+- Setup de ferramentas: configurar e preparar as ferramentas necessárias para desenvolver ou trabalhar em um projeto de software.
+- Git Básico: utilizar os principais comandos para iniciar, atualizar um projeto de software via git.
+- NodeJS, NPM e Package.json: componentes fundamentais no desenvolvimento de aplicações JavaScript e TypeScript
+- Variáveis
+- Introdução ao TypeScript: conhecer a linguagem, conceito de tipagem no javascript
+- Condicionais e Truthiness: Relembrar as condicionais e estrutiras de repetição
+- Arrays e Loops: travalhar com dados em arrays e várias formas de utilizar o for para manipular arrays.
+- Objetos: manipular objetos e armazenar dados mais complexos
+  
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
-- Como posso desenvolver minhas habilidades de gestão de tempo e aplicá-las em meu dia a dia?
-- Quero entender como criar um perfil no LinkedIn e como ele pode me ajudar a encontrar oportunidades de emprego.
-- Gostaria de entender melhor o que é ética em tecnologia e por que é importante.
-- Quero entender como o Git funciona e como posso começar a usá-lo para controlar meus projetos de programação.
-- Gostaria de aprender os conceitos básicos de TypeScript e como ele se diferencia do JavaScript.
-- Quero saber o que são métodos de arrays.
+- Quero relembrar conceitos básicos e revisistar algumas formas de resolver exercicios. Trabalhar e praticar a lógica. 
+
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
-- Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas.
-- Entendi que ética em tecnologia significa pensar sobre as consequências de nossas ações tecnológicas e agir de maneira responsável.
-- Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas e definir prioridades.
-- Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
-- Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
-- Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
+- Pratiquei mais exercícios e exerci a habilidde de praticar a lógica de programação.
