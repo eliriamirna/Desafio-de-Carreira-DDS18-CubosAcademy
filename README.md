@@ -41,7 +41,7 @@ Desafio de carreira do módulo 1 da turma dds-18 do curso da Cubos Academy
 - Funções: Fazer funções para efetuar bloco de códigos no meu código de acordo com a necessidade do sistema. Por exemplo criar uma função chamada handleSave para usar no botão "Salvar" de um formulário que recebe um formdata no front e faz um request via fetch para uma rota no back. 
 - Tipos de dados:  Armazenar vários tipos de dados e utilizar a tipagem em typescritp no meu código
 - Tipos Utilitários: Não conhecia o conceito.
-- Métodos de Arrays: Manipular array e objetos com diversos tipos de métodos no meu código. Por exemplo, utilizo o map para manipular itens de um objeto que contém informações que vem num do back e que precisam ser renderizadas numa tabela no front.
+- Métodos de Arrays: Manipular array e objetos com diversos tipos de métodos no meu código. Por exemplo, utilizo o map para manipular itens de um objeto que contém informações que vem do back e que precisam ser renderizadas numa tabela no front.
   
 ## O que quero aprender sobre os assuntos que serão abordados no módulo 2?
 - Quero relembrar conceitos básicos e aprender diferentes formas de utilizar métodos de arrays e objetos. Quero expandir meus conhecimentos para manipular os dados da melhor forma no meu código.
